@@ -1,6 +1,6 @@
 import React from "react";
-import Home from "./routes/Home";
-import Reservations from "./routes/Reservations";
+import Home from "./routes/Home.js";
+import Reservations from "./routes/Reservations.js";
 
 import {Route, Routes} from "react-router-dom";
 
